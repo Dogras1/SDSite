@@ -7406,6 +7406,11 @@ form .row:first-child .floating-label-form-group {
   padding-top: 6rem;
   padding-bottom: 4.5rem; }
 
+  .login {
+  padding-top: 6rem;
+  padding-bottom: 4.5rem; }
+
+  
 .page-section-heading {
   display: inline-block; }
 
